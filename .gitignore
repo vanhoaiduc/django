@@ -17,3 +17,12 @@ tests/.coverage*
 build/
 tests/report/
 tests/screenshots/
+
+.idea/
+lib/
+venv/
+pyvenv.cfg
+bin/
+
+#mysite/mystaticfiles/
+#mysite/productionfiles/
